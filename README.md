@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif%22%3E> , I'm Aybüke</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif> , I'm Aybüke</h1>
 <h3 align="center">I am software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aybukeonay&label=Profile%20views&color=0e75b6&style=flat" alt="aybukeonay" /> </p>
