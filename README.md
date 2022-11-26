@@ -5,13 +5,6 @@
 - 🌱 &nbsp;I’m currently learning Javascript
 - 💬 &nbsp;Ask me about anything related to C# or Java
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Http Status Code](https://medium.com/@aybuke.onay7/http-status-codes-4f7c7801c8b2)
-- [Multithread Nedir](https://medium.com/@aybuke.onay7/multithread-nedir-fdbd22a60028)
-- [Http Request Methods](https://medium.com/@aybuke.onay7/http-request-methods-572be35b97ed)
-- [Spring Validation Attributes](https://medium.com/@aybuke.onay7/spring-validation-attributes-cca439107e8e)
-<!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -20,6 +13,15 @@
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Http Status Code](https://medium.com/@aybuke.onay7/http-status-codes-4f7c7801c8b2)
+- [Multithread Nedir](https://medium.com/@aybuke.onay7/multithread-nedir-fdbd22a60028)
+- [Http Request Methods](https://medium.com/@aybuke.onay7/http-request-methods-572be35b97ed)
+- [Spring Validation Attributes](https://medium.com/@aybuke.onay7/spring-validation-attributes-cca439107e8e)
+<!-- BLOG-POST-LIST:END -->
+
 
 📊 &nbsp;**This week I spent my time on**
 
