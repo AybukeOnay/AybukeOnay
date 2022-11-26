@@ -19,6 +19,9 @@
 - [Http Request Methods](https://medium.com/@aybuke.onay7/http-request-methods-572be35b97ed)
 - [Spring Validation Attributes](https://medium.com/@aybuke.onay7/spring-validation-attributes-cca439107e8e)
 <!-- BLOG-POST-LIST:END -->
+  
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
 I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
