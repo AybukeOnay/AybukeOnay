@@ -1,4 +1,5 @@
-### Hi there I'm Aybüke<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<h1 align="center">Hi 👋 , I'm Aybüke</h1>
+<h3 align="center">I am software development.</h3>
 
 - 🔭 &nbsp;I’m currently working on https://github.com/AybukeOnay/kodlama.io-javaCamp
 - 🌱 &nbsp;I’m currently learning Javascript
