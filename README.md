@@ -34,12 +34,12 @@
       <br/>
         <p align="center">
           <a href="https://github.com/AybukeOnay">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertYilmaz41&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="MertYilmaz41 :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AybukeOnay&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="AybukeOnay :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/MertYilmaz41">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MertYilmaz41&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MertYilmaz41&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AybukeOnay&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AybukeOnay&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
